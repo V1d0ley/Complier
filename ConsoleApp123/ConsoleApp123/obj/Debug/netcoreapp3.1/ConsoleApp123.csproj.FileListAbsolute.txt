@@ -1,0 +1,4 @@
+D:\Документы\БурхановАкбашев\ConsoleApp123\ConsoleApp123\obj\Debug\netcoreapp3.1\ConsoleApp123.csprojAssemblyReference.cache
+D:\Документы\БурхановАкбашев\ConsoleApp123\ConsoleApp123\obj\Debug\netcoreapp3.1\ConsoleApp123.AssemblyInfoInputs.cache
+D:\Документы\БурхановАкбашев\ConsoleApp123\ConsoleApp123\obj\Debug\netcoreapp3.1\ConsoleApp123.AssemblyInfo.cs
+D:\Документы\БурхановАкбашев\ConsoleApp123\ConsoleApp123\obj\Debug\netcoreapp3.1\ConsoleApp123.csproj.CoreCompileInputs.cache
